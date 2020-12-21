@@ -40,4 +40,7 @@
 
     <!-- Whether or not to add a "people" notifications section -->
     <bool name="config_usePeopleFiltering">true</bool>
+
+    <!-- The number of columns in the QuickSettings -->
+    <integer name="quick_settings_num_columns">4</integer>
 </resources>
