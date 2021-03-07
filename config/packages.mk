@@ -2,6 +2,7 @@
 PRODUCT_PACKAGES += \
     Launcher3 \
     Launcher3QuickStep \
+    OmniJaws \
     OmniStyle \
     ShishufiedHeaders \
     StitchImage \
