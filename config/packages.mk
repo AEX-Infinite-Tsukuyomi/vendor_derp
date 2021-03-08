@@ -4,7 +4,6 @@ PRODUCT_PACKAGES += \
     Launcher3QuickStep \
     OmniJaws \
     OmniStyle \
-    ShishufiedHeaders \
     StitchImage \
     StitchImageService \
     ThemePicker \
